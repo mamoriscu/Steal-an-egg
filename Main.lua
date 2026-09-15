@@ -1,1 +1,1 @@
-LS0gTG9hZGVyIHRydW5nIGdpYW4KbG9jYWwgdXJsID0gImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9vamlhc2EvU3RlYWwtYW4tZWdnL21haW4vbWFpbi5sdWEiCmxvYWRzdHJpbmcoZ2FtZTpIdHRwR2V0KHVybCkpKCk=
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ojiasa/Steal-an-egg/main/main.lua"))()
